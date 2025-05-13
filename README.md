@@ -39,7 +39,7 @@ Here, I'm going to open a new ticket as Karen.
 <img src="https://i.imgur.com/46XnxVO.png" height="80%" width="80%" alt="Ticket Lifecycle"/>
 </p>
 <p>
-When opening a ticket, make sure that the end user fills out the information with the red asterik by it.
+When opening a ticket, the end user fills out their contact information, the help topic and ticket details.
 </p>
 <br />
 
